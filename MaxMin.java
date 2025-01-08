@@ -1,3 +1,7 @@
+// Author : Samridhi Gupta
+// Date : 08/01/2025
+// Topic: Finding Maximum and Minimum Value
+
 import java.util.Scanner;
 
 public class MaxMin {
